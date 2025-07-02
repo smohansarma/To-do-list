@@ -1,2 +1,13 @@
-# To-do-list
-A basic to-do list web app where users can add and delete tasks. It uses HTML, CSS, and JavaScript with dynamic DOM manipulation. However, the data is not saved after refreshing the page.
+# ✅ To-Do List App
+
+A basic web-based task manager built with HTML, CSS, and JavaScript.  
+Users can add and delete tasks dynamically using DOM manipulation.
+
+## Features
+- Add tasks with a single click
+- Delete individual tasks
+- Real-time updates in the browser
+- Does not use localStorage (tasks are not saved after reload)
+
+## Technologies
+HTML, CSS, JavaScript
